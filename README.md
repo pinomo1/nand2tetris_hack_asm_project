@@ -1,4 +1,4 @@
-## Nand2Tetris Hack Assembly Computer Architecture Project Work 2
+## Nand2Tetris Hack Assembly UFAZ Computer Architecture Project Work 2
 what a long title, huh...
 
 In this app you control the character - you're the boss here.
@@ -22,3 +22,8 @@ I found this project much more engaging and productive compared to simple drawin
  4. One can actually make something bigger out of this = it has some potential
 
 I have to rewrite this README, it's already 1AM, I dunno what I am writting about
+
+If you do not know what was the project about:
+"Draw a pattern on the screen (You can draw any pattern). You can after scrolling it,
+make a simple animation and using the Keyboard to control it. If you have time try to
+make a simple game (The project must be written in HACK assembly language)."
